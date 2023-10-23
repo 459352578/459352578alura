@@ -1,0 +1,18 @@
+@media screen and (min-width: 1024px) {
+    .banner__titulo {
+    font-size: 24px;
+    
+    }
+    .banner {
+        padding: 1em;
+    }
+    }
+
+    .banner__pesquisa::placeholder {background-position: 12em;
+        
+        
+        }
+        .banner__pesquisa::placeholder {
+            background-position: 1em;
+            }
+
